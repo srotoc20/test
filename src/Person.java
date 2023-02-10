@@ -24,7 +24,7 @@
         }
 
         private void test () {
-
+            System.out.println("TEst");
         }
 
         public void setAge(int age) {
